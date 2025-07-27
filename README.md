@@ -1,2 +1,2 @@
 # templateborbot
-Telgram bot in Python for educational purposes
+Telegram bot in Python for educational purposes
